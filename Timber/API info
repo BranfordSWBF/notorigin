@@ -1,0 +1,20 @@
+API key
+85e91e456377eea8a0f13b872dd5e1a9
+Password
+1f4b14b3a939c04900c7282ecff3efec
+Shared secret
+f62e8601a68bb603e559d91a1cfc46ff
+URL format
+https://apikey:password@hostname/admin/resource.json
+Example URL
+https://85e91e456377eea8a0f13b872dd5e1a9:1f4b14b3a939c04900c7282ecff3efec@taotea.myshopify.com/admin/orders.json
+
+
+Brooklyn ID:
+164395405
+
+
+# create configuration
+theme configure --password=[your-password] --store=[you-store.myshopify.com] --themeid=[your-theme-id]
+# download and setup project in the current directory
+theme download

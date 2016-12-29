@@ -1,0 +1,7 @@
+development:
+  password: ebdb14ccb6f5e30987059dd8533a7544
+  theme_id: "164661383"
+  store: taoteadev.myshopify.com
+
+
+$ theme configure --password=ebdb14ccb6f5e30987059dd8533a7544 --store=taoteadev.myshopify.com --themeid=164661383
